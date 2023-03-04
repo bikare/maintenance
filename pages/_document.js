@@ -10,9 +10,9 @@ export default class MyDocument extends Document {
                     <link rel="preconnect" href="https://fonts.googleapis.com" />
                     <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
                     <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
-                    <meta name="theme-color" content="#21B37E"/>
-                    <meta name="msapplication-navbutton-color" content="#21B37E"/>
-                    <meta name="apple-mobile-web-app-status-bar-style" content="#21B37E"/>
+                    <meta name="theme-color" content="#8fbe22"/>
+                    <meta name="msapplication-navbutton-color" content="#8fbe22"/>
+                    <meta name="apple-mobile-web-app-status-bar-style" content="#8fbe22"/>
                 </Head>
                 <body className="font-Poppins">
                     <Main />
